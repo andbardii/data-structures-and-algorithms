@@ -172,3 +172,27 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files
+.Spotlight-V100
+.Trashes
+**/._*
+
+# macOS cache files
+.DS_Store?
+.Trashes
+*.swp
+*.swo
+*.DS_Store
+
+# Visual Studio Code specific
+.vscode/
+*.code-workspace
