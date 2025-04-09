@@ -1,2 +1,2 @@
-# data-structures-and-algorithms
+# Data Structures and Algorithms
 Backup for Data Structures and Algorithms course.
